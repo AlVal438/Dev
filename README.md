@@ -13,7 +13,7 @@
 
 | ФИО  | Группа | GitHub Username | Роль |
 |---|---|---|---|
-| Бирюков Алексей Витальевич     | 191-352 | CreateBiryukov   | Developer |
+| Бирюков Алексей Витальевич     | 191-352 | CreateBiryukov   | Developer, Чисто красавчик |
 | Петренко Елена Александровна   | 191-352 | LenaPetrenko     | Developer |
 | Щеголькова Василиса Васильевна | 191-352 | vasyascheg       | Developer |
 | Гура Евгений Борисович         | 191-352 |       -          | Developer |
